@@ -22,7 +22,7 @@
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'database_name_here' );
 # je fais quelque chose
-#je fais un deuxieme commit
+# je fais un deuxieme commit
 
 /** MySQL database username */
 define( 'DB_USER', 'username_here' );
